@@ -5,7 +5,7 @@ The first edition was published by BlockchainHub Berlin https://blockchainhub.ne
 * Read for free on Github: https://github.com/sherminvo/TokenEconomyBook/wiki<br>
 * Print book (paperback & hardcopy) and eBook editions are also available on Amazon (https://amzn.to/2W7lQ8h) & other online bookstores.
 * Other languages: https://github.com/Token-Economy-Book/
-* 中文版：https://github.com/JoanJiao/TokenEconomyBook_Chinese/wiki
+* **中文版：https://github.com/JoanJiao/TokenEconomyBook_Chinese/wiki **
 
 # Imprint
 Author: Shermin Voshmgir <br>
